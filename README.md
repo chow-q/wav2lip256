@@ -11,7 +11,7 @@ wav2lip-onnx模式：
 
 用 Nvidia GPU 推理更快，速度在1:0.8左右。
 
-跑onnx之前需先对要处理的视频先用generate_avatar生成视频avatar缓存文件。
+跑onnx之前需先对要处理的视频先执行python generate_avatar.py生成视频avatar缓存文件。
 
 推理效果：
 
