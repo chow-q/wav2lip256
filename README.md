@@ -13,6 +13,8 @@ wav2lip-onnx模式：
 
 跑onnx之前需先对要处理的视频先执行python generate_avatar.py生成视频avatar缓存文件。
 
+增加虚拟摄像头：如果有新的视频文件：首先播放新的视频文件。如果没有新的视频文件：播放默认的 test.mp4。实现循环播放视频。
+
 推理效果：
 
 https://github.com/user-attachments/assets/3d6fe403-48dd-4589-aed1-49b12bf46cb7
