@@ -51,8 +51,8 @@ class Runner(object):
         self.a_alpha = 1.25
         self.audio_smooth = args.audio_smooth
 
-        model_a_path = 'weights/wav2lip/model_1.onnx'
-        model_g_path = 'weights/wav2lip/model_2.onnx'
+        model_a_path = 'weights/wav2lip/model_a.onnx'
+        model_g_path = 'weights/wav2lip/model_g.onnx'
 
         self.model_a = load_model(model_a_path)
         if self.model_a is None:
