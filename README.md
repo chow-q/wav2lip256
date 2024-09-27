@@ -19,7 +19,9 @@ wav2lip-onnx模式：
 
 https://github.com/user-attachments/assets/3d6fe403-48dd-4589-aed1-49b12bf46cb7
 
-扫码添加微信获取模型：
+you can contact me to get the model by email at 313733727@qq.com
+
+或者扫码添加微信获取模型：
 
 
 ![6102d342f57aa5bfe5f90478dd12ded](https://github.com/user-attachments/assets/302f43f8-834d-4a52-8993-7afdcd297b3e)
