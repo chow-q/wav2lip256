@@ -19,7 +19,11 @@ wav2lip-onnx模式：
 
 https://github.com/user-attachments/assets/3d6fe403-48dd-4589-aed1-49b12bf46cb7
 
-you can contact me to get the model by email at 313733727@qq.com
+you can contact me to get the model by:
+
+email: 313733727@qq.com
+
+Telegram: https://t.me/chow_dong
 
 或者扫码添加微信获取模型：
 
