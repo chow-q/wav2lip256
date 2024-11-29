@@ -28,4 +28,5 @@ Telegram: https://t.me/chow_dong
 或者扫码添加微信获取模型：
 
 
-![6102d342f57aa5bfe5f90478dd12ded](https://github.com/user-attachments/assets/302f43f8-834d-4a52-8993-7afdcd297b3e)
+![32651](https://github.com/user-attachments/assets/e3db3eb4-24a9-4226-876d-d07f6e0d519f)
+
