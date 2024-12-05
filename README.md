@@ -1,3 +1,12 @@
+#在线试用：
+
+https://www.ai-ren.cn
+
+#微信小程序：
+
+![小程序](https://github.com/user-attachments/assets/52a212cd-6ec8-49fd-a6e6-cb57fc98d528)
+
+
 # wav2lip256
 1080p高清模型，直接推理，无需高清修复
 
