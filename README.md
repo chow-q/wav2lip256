@@ -6,7 +6,6 @@ https://www.ai-ren.cn
 
 ![小程序](https://github.com/user-attachments/assets/52a212cd-6ec8-49fd-a6e6-cb57fc98d528)
 
-
 # wav2lip256
 1080p高清模型，直接推理，无需高清修复
 
@@ -24,9 +23,11 @@ wav2lip-onnx模式：
 
 增加虚拟摄像头：如果有新的视频文件：首先播放新的视频文件。如果没有新的视频文件：播放默认的 test.mp4。实现循环播放视频。
 
-推理效果：
+256推理效果：
 
 https://github.com/user-attachments/assets/3d6fe403-48dd-4589-aed1-49b12bf46cb7
+https://github.com/user-attachments/assets/4755744f-4d9d-46b3-89d5-7332d9d5ce88
+
 
 you can contact me to get the model by:
 
