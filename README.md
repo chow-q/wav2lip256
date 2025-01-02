@@ -23,7 +23,9 @@ wav2lip-onnx模式：
 
 增加虚拟摄像头：如果有新的视频文件：首先播放新的视频文件。如果没有新的视频文件：播放默认的 test.mp4。实现循环播放视频。
 
-![32651](https://github.com/user-attachments/assets/e3db3eb4-24a9-4226-876d-d07f6e0d519f)
+
+https://github.com/user-attachments/assets/c55e807e-fd6b-4430-b5c6-ab172a914c28
+
 
 you can contact me to get the model by:
 
@@ -32,7 +34,7 @@ email: 313733727@qq.com
 Telegram: https://t.me/chow_dong
 
 或者扫码添加微信获取模型：
-
+![32651](https://github.com/user-attachments/assets/e3db3eb4-24a9-4226-876d-d07f6e0d519f)
 
 
 
