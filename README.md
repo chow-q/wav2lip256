@@ -8,10 +8,15 @@ https://www.ai-ren.cn
 
 # wav2lip384
 1080p高清模型，直接推理，无需高清修复。
-含训练代码
+
+目前推理速度最快的384，推理速度最高可以去到1：0.8
+
+含训练代码，支持单人微调
 
 
-https://github.com/user-attachments/assets/ee6fa01c-c109-42bf-b97b-81abee1f392f
+https://github.com/user-attachments/assets/b4d8a63f-0626-467c-98e1-550e9be64dee
+
+
 
 
 you can contact me to get the model by:
